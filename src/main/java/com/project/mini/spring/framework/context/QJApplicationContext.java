@@ -9,8 +9,6 @@ import java.util.List;
 import java.util.Map;
 
 /**
- * @Description:
- * @Author: kejl
  * @Date: Created in 1:44 PM 2019/4/11
  **/
 public class QJApplicationContext extends QJDefaultListableBeanFactory implements QJBeanFactory {

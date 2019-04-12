@@ -1,0 +1,7 @@
+
+esquid:S00112."FDefine and throw a dedicated exception instead of using a generic one.(ÕóÿÏ8¤¤ûİ -
+Fsquid:S1148"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ8ĞÀ¸Ú -
+jsquid:S00112+"FDefine and throw a dedicated exception instead of using a generic one.(º„’úÿÿÿÿ8æèüİ -
+Zsquid:UselessImportCheck
+"*Remove this unused import 'java.util.Set'.(ö²„¤şÿÿÿÿ8áğÏŞ -
+xsquid:S1450"URemove the "reader" field and declare it as a local variable in the relevant methods.(ÍÕğäúÿÿÿÿ8ĞÀ¸Ú -

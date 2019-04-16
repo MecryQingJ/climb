@@ -1,6 +1,6 @@
 package com.project.mini.spring.framework.beans.support;
 
-import com.project.mini.spring.framework.beans.config.QJBeanDefiniton;
+import com.project.mini.spring.framework.beans.config.QJBeanDefinition;
 
 import java.io.File;
 import java.io.IOException;
@@ -60,8 +60,8 @@ public class QJBeanDefinitionReader {
         return this.config;
     }
 
-    public List<QJBeanDefiniton> loadBeanDefinitions(){
-        List<QJBeanDefiniton> result = new ArrayList<QJBeanDefiniton>();
+    public List<QJBeanDefinition> loadBeanDefinitions(){
+        List<QJBeanDefinition> result = new ArrayList<QJBeanDefinition>();
         try {
             for(String className : registerBeanName){
                 Class<?> beanClass = Class.forName(className);
@@ -106,8 +106,8 @@ public class QJBeanDefinitionReader {
         return String.valueOf(chars);
     }
 
-    private QJBeanDefiniton doCreateBeanDefinition(String factoryName,String beanClassName){
-        QJBeanDefiniton definition = new QJBeanDefiniton();
+    private QJBeanDefinition doCreateBeanDefinition(String factoryName, String beanClassName){
+        QJBeanDefinition definition = new QJBeanDefinition();
         definition.setFactoryBeanName(factoryName);
         definition.setBeanClassName(beanClassName);
         return definition;

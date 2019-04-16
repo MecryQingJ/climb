@@ -8,10 +8,11 @@ import lombok.Data;
  * @Date: Created in 2:04 PM 2019/4/11
  **/
 @Data
-public class QJBeanDefiniton {
+public class QJBeanDefinition {
 
     private boolean lazyInit = false;
     private volatile String beanClassName;
     private String factoryBeanName;
+    private boolean isSingleton = true;
 
 }

@@ -1,12 +1,0 @@
-
-‡squid:S1488"cImmediately return this expression instead of assigning it to the temporary variable "beanWrapper".(Ğµ¶Ëıÿÿÿÿ8¾†Å¦¢-
-Ssquid:S1172`"5Remove this unused method parameter "beanDefinition".(€…ŞØ8àèµ¦¢-
-Fsquid:S1148B"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ8È±×¦¢-
-xsquid:S1450"URemove the "reader" field and declare it as a local variable in the relevant methods.(ÍÕğäúÿÿÿÿ8àèµ¦¢-
-esquid:S001125"FDefine and throw a dedicated exception instead of using a generic one.(ÕóÿÏ8àèµ¦¢-
-nsquid:CommentedOutCodeLineU"<This block of commented-out lines of code should be removed.(â¹ïÙşÿÿÿÿ8©ÓÔ¦¢-
-Rsquid:S1172|"/Remove this unused method parameter "beanName".(ÄÌÓÉûÿÿÿÿ8àèµ¦¢-
-esquid:S001122"FDefine and throw a dedicated exception instead of using a generic one.(»×‹ë8àèµ¦¢-
-Fsquid:S1148""#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ8àèµ¦¢-
-Gsquid:S1148Š"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ8àèµ¦¢-
-Fsquid:S1148w"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ8ßõ§¢-

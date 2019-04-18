@@ -5,12 +5,12 @@
     <modelVersion>4.0.0</modelVersion>
 
     <groupId>com.project</groupId>
-    <artifactId>mini-spring</artifactId>
+    <artifactId>climb-fight</artifactId>
     <packaging>pom</packaging>
     <version>1.0-SNAPSHOT</version>
     <modules>
-        <module>data-structure</module>
         <module>design-pattern</module>
+        <module>spring-learn</module>
     </modules>
 
     <properties>

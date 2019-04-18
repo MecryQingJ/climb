@@ -7,6 +7,8 @@
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
         <module name="design-pattern" />
+        <module name="spring-learn" />
+        <module name="spring-test" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>

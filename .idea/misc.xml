@@ -13,6 +13,8 @@
     <option name="ignoredFiles">
       <set>
         <option value="$PROJECT_DIR$/data-structure/pom.xml" />
+        <option value="$PROJECT_DIR$/dubbo-customer/pom.xml" />
+        <option value="$PROJECT_DIR$/dubbo-provider/pom.xml" />
       </set>
     </option>
   </component>

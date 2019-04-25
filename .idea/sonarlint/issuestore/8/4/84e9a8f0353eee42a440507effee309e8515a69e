@@ -1,0 +1,6 @@
+
+6squid:S1170"!Make this final field static too.(’ñÅí
+msquid:S00116"WRename this field "SCAN_PACKAGE" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(’ñÅí
+=squid:S1148"#Use a logger to log this exception.(€ÉÔ…ýÿÿÿÿ
+=squid:S1148"#Use a logger to log this exception.(€ÉÔ…ýÿÿÿÿ
+=squid:S1148"#Use a logger to log this exception.(€ÉÔ…ýÿÿÿÿ

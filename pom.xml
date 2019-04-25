@@ -11,6 +11,11 @@
     <modules>
         <module>design-pattern</module>
         <module>spring-learn</module>
+        <module>dubbo-customer</module>
+        <module>dubbo-provider</module>
+        <module>dubbo-user</module>
+        <module>dubbo-order</module>
+        <module>mybatis-learn</module>
     </modules>
 
     <properties>
